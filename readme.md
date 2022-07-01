@@ -36,6 +36,7 @@ At the end of this crash course, each learner must be able to:
 
 - Functions & Procedures
 - Packages and Libraries
+- Virtual environment
 
 ## Week 03: Let's discover advanced concepts
 ### Topics
