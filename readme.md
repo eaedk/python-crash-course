@@ -11,6 +11,9 @@ At the end of this crash course, each learner must be able to:
 - Version code and collaborate on a programming project
 - Evaluate the code space and time complexity.
 
+# Cheat Sheet
+Here is an interesting memento that summarizes Python syntaxes. [Read more](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3.pdf)
+
 # Curriculum
 
 - Python code overall structure & Vocabulary
@@ -42,6 +45,7 @@ At the end of this crash course, each learner must be able to:
 ### Topics
 - Oriented-Object Programming (OOP)
 - Unit test
+- [Auto-documentation](https://github.com/eaedk/evaluation-on-python-basics-auto-docs)
 
 ## Week 04
 ### Topics
