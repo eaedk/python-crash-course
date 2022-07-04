@@ -3,10 +3,14 @@
 # Introduction
 ## Description of Python 3
 Python 3 is a, high-level, dynamically typed, interpreted, object-oriented, general-purpose, programming language.
+
 Python is a very high-level programming language because its syntax so closely resembles the English language. Higher-level means it's more readable to humans,so that, it's an easy language to learn.
+
 Python is a dynamically typed language. This means that the Python interpreter does type checking only as code runs, and the type of a variable is allowed to change over its lifetime.
-Python is a general-purpose language because it can be used for almost all the purposes, like web development, artificial intelligence, physics, mathematics, cyber security, etc.
-Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine. Python is different from major compiled languages, such as C and C + +, as Python code is not required to be built and linked like code for these languages.
+Python is also a general-purpose language because it can be used for almost all the purposes, like web development, artificial intelligence, physics, mathematics, cyber security, etc.
+
+Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine. Python is different from major compiled languages, such as C and C++, as Python code is not required to be built and linked like code for these languages.
+
 Python's object-oriented programming system supports all four features: encapsulation, abstraction, inheritance and polymorphism.
 
 We will explore the language deeply a bit later. 
@@ -18,7 +22,8 @@ Programming means using code, written in a programming language, based on an alg
 In mathematics and computer science, an algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.
 
 An algorithm has some main components that are implemented differently with each programming language.
+![](https://slideplayer.com/slide/13700544/85/images/4/Components+of+an+Algorithm.jpg)
 
 # Purpose 
 
-This Python crash course aims to introduce learning in programming and help them to develop softwares that perform actions, calculations, processings to solve problems.
+This Python crash course aims to introduce learners in programming and help them to develop softwares that perform actions, calculations, processings to solve problems.
