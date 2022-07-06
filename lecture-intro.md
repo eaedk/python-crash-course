@@ -24,7 +24,7 @@ In mathematics and computer science, an algorithm is a finite sequence of rigoro
 An algorithm has some main components that are implemented differently with each programming language.
 ![](https://slideplayer.com/slide/13700544/85/images/4/Components+of+an+Algorithm.jpg)
 
-# Purpose 
+# Purpose of the course
 
 This Python crash course aims to introduce learners in programming and help them to develop softwares that perform actions, calculations, processings to solve problems.
 
