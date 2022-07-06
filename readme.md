@@ -16,20 +16,25 @@ Here is an interesting memento that summarizes Python syntaxes. [Read more](http
 
 # Curriculum
 
-- Python code overall structure & Vocabulary
-- Variables and Data Structures
+- Introduction
+- Code Version Control (Versioning)
+- Variables, Data Structures and Operations
 - Conditional statements
 - Loop statements
-- Functions & Procedures
+- Functions & Exception Handling
+- Packages and Libraries
+- Virtual environment
 - OOP
+- Unit testing, clean code and documentation
 - Problem solving and Complexity evaluation
 
 # Timeline
 ## Week 01: Let's get started Python3
 ### Topics
-- Python code overall structure & Vocabulary
+- Introduction
+- Setuping [IDE]
 - Code Version Control (Versioning) using Git & Github
-- Variables and Data Structures
+- Variables, Data Structures and Operations
 - Conditional statements
 - Loop statements
 
@@ -37,16 +42,17 @@ Here is an interesting memento that summarizes Python syntaxes. [Read more](http
 ## Week 02: Let's get your hands in Python3
 ### Topics
 
-- Functions & Procedures
+- Functions & Exception Handling
 - Packages and Libraries
 - Virtual environment
 
 ## Week 03: Let's discover advanced concepts
 ### Topics
-- Oriented-Object Programming (OOP)
-- Unit test
+- Object-Oriented Programming (OOP)
+- Unit testing
 - [Auto-documentation](https://github.com/eaedk/evaluation-on-python-basics-auto-docs)
 
-## Week 04
+## Week 04: Let's explore algorithmic problems
 ### Topics
 - Problem solving and Complexity evaluation
+- Main algorithms (Binary search, etc)

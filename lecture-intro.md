@@ -27,3 +27,30 @@ An algorithm has some main components that are implemented differently with each
 # Purpose 
 
 This Python crash course aims to introduce learners in programming and help them to develop softwares that perform actions, calculations, processings to solve problems.
+
+# Python code overall structure & I/O
+There are many ways to write Python 3 code. Let's have a look to the Script method. 
+
+```python
+import os # We import the package named os
+
+# def cal_add():
+#     """This is a simple function that asks the user to type two numbers to add them up """
+#     pass
+
+
+def main():
+    """The main function that will run instructions when the script file will be executed"""
+
+    print("Hello world!")
+    print("The working directory is", os.getcwd())
+    message = input("Type a message for the world\n>>>")
+    print("This is your message:", message)
+
+
+if __name__ == "__main__":
+    main()  # call of the main function
+
+```
+
+In the main function we write our instructions and at the bottom we check wheather the system want to execute the file, if so the main function is started and the instructions are execute from the top to the bottom.

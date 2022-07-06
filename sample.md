@@ -1,6 +1,6 @@
 # Clean & commented code
 ```pyhton
-print('Hello world') 
+print('Hello world') # show the message to the user
 ```
 # Unit test
 
