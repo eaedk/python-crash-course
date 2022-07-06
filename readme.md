@@ -56,3 +56,6 @@ Here is an interesting memento that summarizes Python syntaxes. [Read more](http
 ### Topics
 - Problem solving and Complexity evaluation
 - Main algorithms (Binary search, etc)
+
+# Assignment
+Have a look at a sample  [here](week_XX\Z-Assignments\001-assign.md)
