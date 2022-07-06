@@ -58,4 +58,4 @@ Here is an interesting memento that summarizes Python syntaxes. [Read more](http
 - Main algorithms (Binary search, etc)
 
 # Assignment
-Have a look at a sample  [here](https://github.com/eaedk/python-crash-course/blob/master/week_XX/Z-Assignments/001-assign.md)
+Have a look at a sample  [here](week_XX/Z-Assignments/001-assign.md)
